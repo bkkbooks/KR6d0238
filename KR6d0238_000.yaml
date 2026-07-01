@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0238/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 不可剎那無此君
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0962.xml
+    old_id: X57n0962
+hash: sha256:676cbdd1a2f4f020170af803638cfb69a9c275615f90df604c3eea59613f8736

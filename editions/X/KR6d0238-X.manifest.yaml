@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6d0238/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0238/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 不可剎那無此君
+  identifiers:
+    krp: KR6d0238
+    cbeta: X57n0962
+    cbeta_old_id: X57n0962
+    authorityid: CA0000356
+    json_key: X0962
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X57/X57n0962.xml
+    old_id: X57n0962
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0238_000-X.yaml, hash: 'sha256:676cbdd1a2f4f020170af803638cfb69a9c275615f90df604c3eea59613f8736'}
+  - {seq: 1, filename: KR6d0238_001-X.yaml, hash: 'sha256:7cd2f1420124625fcef183b658623ecf14f2fb5cb55c342bad2f406a0d6bf8d7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0238_000-X.markers.yaml, hash: 'sha256:77c093ae8cc80550bf64697b28a6cff175843bfe889bb3534813d9ad69ce80f3'}
+  - {seq: 1, role: markers, filename: assets/KR6d0238_001-X.markers.yaml, hash: 'sha256:dcff7e50d632b6c503b7dd0dbb1b7a8f9f0f7fb96f1ad69b50076b1a27f39673'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 890
+  label: 不可剎那無此君
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 不可剎那無此君
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-2
+    span:
+    - body
+    - 261
+    - 261
+  label: No. 962-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-3
+    span:
+    - body
+    - 261
+    - 261
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-4
+    span:
+    - body
+    - 566
+    - 566
+  label: 朴翁詩七首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-5
+    span:
+    - body
+    - 566
+    - 566
+  label: 郊原避暑曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-6
+    span:
+    - body
+    - 611
+    - 611
+  label: 夏日曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-7
+    span:
+    - body
+    - 654
+    - 654
+  label: 湖提晚步曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-8
+    span:
+    - body
+    - 699
+    - 699
+  label: 訪端叔提幹曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-9
+    span:
+    - body
+    - 745
+    - 745
+  label: 雪夜曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-10
+    span:
+    - body
+    - 788
+    - 788
+  label: 宿裴菴曰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0238_X_001-mulu-11
+    span:
+    - body
+    - 832
+    - 832
+  label: 小亭曰
+  type: mulu
+  level: 1
+hash: sha256:110fc84357a1abaa32a70763ec31b1ffe606a9666bf1643a0e194c430eadf422
